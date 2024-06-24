@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1718169681 source:c:\users\nicol\onedrive\escritorio\utn\programación i\proyecto jueguito\jueguito\main.cpp
+	<iostream>
+	<ctime>
+	"juego.h"
+	"menu.h"
+
+1718171685 c:\users\nicol\onedrive\escritorio\utn\programación i\proyecto jueguito\jueguito\menu.h
+
+1718171536 c:\users\nicol\onedrive\escritorio\utn\programación i\proyecto jueguito\jueguito\juego.h
+
